@@ -7,3 +7,4 @@ matplotlib==3.3.4
 haversine==2.8.1
 streamlit-folium==0.18.0
 Pillow==8.2.0
+inflection==0.5.1
