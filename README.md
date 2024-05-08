@@ -2,8 +2,7 @@
 
 # 1. Problema de Negócio
 
-  Parabéns! Você acaba de ser contratado como Cientista de Dados da empresa
-Fome Zero, e a sua principal tarefa nesse momento é ajudar o CEO Kleiton Guerra
+  Sua principal tarefa nesse momento é ajudar o CEO Kleiton Guerra
 a identificar pontos chaves da empresa, respondendo às perguntas que ele fizer
 utilizando dados!
 A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu core
