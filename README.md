@@ -111,24 +111,35 @@ as 3 principais visões do modelo de negócio da empresa:
 ## 1. Visão global dos restaurantes cadastrados no data base.
 
   a. Quantidade de paises registados.
+  
   b. Quantidade de cidades registadas.
+  
   c. Quantidade de restaurantes registados.
+  
   d. Quantidade de cozinhas registadas.
+  
   e. Quantidade de votos registados.
+  
   f. Mapa global.
 
 ## 2. Visão das cidades.
 
   a. As 10 cidades com mais restaurantes no banco de dados.
+  
   b. As 7 principais cidades com restaurantes com classificação média acima de 4.
+  
   c. As 7 principais cidades com restaurantes com classificação média abaixo de 2,5.
+  
   d. Top 10 cidades com restaurantes com diferentes tipos de cozinha.
   
 ## 3. VIsão dos paises.
 
   a. A quantidade de restaurantes registrados por país.
+  
   b. A quantidade de cidades cadastradas por país.
+  
   c. Avaliações médias feitas por cidade.
+  
   d. Preço médio do prato para duas pessoas.
 
   
