@@ -3,7 +3,7 @@
 
 # Skills utilizadas:
 
-    Python, (Pandas, Haversine, Map,
+    Python, (Pandas, Haversine, Map)
     JupterLab
     Streamlit
     Streamlit Cloud
