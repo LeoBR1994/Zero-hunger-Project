@@ -195,7 +195,7 @@ df = modelagem(dataframe, country_name, create_price_type, color_name, yes_no)
 st.header('Country View', divider='blue') # Título 
 image = Image.open('food.png')
 st.sidebar.image( image, width = 250)
-st.sidebar.write('<span style="font-size: medium;">Leonardo Rosa </span> <span style="font-size: small;">:blue[ |  Data Scientist]</span>', unsafe_allow_html=True)
+st.sidebar.write('<span style="font-size: small;">:blue[Comunidade DS]</span>', unsafe_allow_html=True)
 st.sidebar.markdown("""___""")
 
 # st.write('## Find your favorite restaurant !' ) # Subtítulo
@@ -247,7 +247,7 @@ df = df[df['aggregate_rating'].isin(selected_rating_values)]
 # Final sidebar
 
 st.sidebar.markdown("""___""")
-st.sidebar.markdown('### Powered by Comunidade DS')
+st.sidebar.markdown('### Powered by Leonardo Rosa')
 
 # Gráficos
 
