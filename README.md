@@ -143,7 +143,7 @@ as 3 principais visões do modelo de negócio da empresa:
   
   d. Top 10 cidades com restaurantes com diferentes tipos de cozinha.
   
-## 3. VIsão dos paises.
+## 3. Visão dos paises.
 
   a. A quantidade de restaurantes registrados por país.
   
