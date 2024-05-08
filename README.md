@@ -1,5 +1,5 @@
 # Zero-hunger-Project
-[Acessar Dashboard](https://zero-hunger-food.streamlit.app/)
+[Acessar Dashboard](https://zero-hunger-project.streamlit.app/)
 
 # Skills utilizadas:
 
