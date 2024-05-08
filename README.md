@@ -1,3 +1,15 @@
+# Zero-hunger-Project
+[Acessar Dashboard]()
+
+# Skills utilizadas:
+
+    Python, (Pandas, Haversine, Map,
+    JupterLab
+    Streamlit
+    Streamlit Cloud
+    Github
+
+
 # Fome Zero
 
 # 1. Problema de Negócio
