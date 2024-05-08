@@ -196,7 +196,7 @@ df = modelagem(dataframe, country_name, create_price_type, color_name, yes_no)
 st.header('Analytics Dashboard', divider='red') # Título 
 image = Image.open('food.png')
 st.sidebar.image( image, width = 250)
-st.sidebar.write('<span style="font-size: medium;">Leonardo Rosa </span> <span style="font-size: small;">:blue[ |  Data Scientist]</span>', unsafe_allow_html=True)
+st.sidebar.write('</span> <span style="font-size: small;">:blue[Comunidade DS]</span>', unsafe_allow_html=True)
 st.sidebar.markdown("""___""")
 
 
