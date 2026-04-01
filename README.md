@@ -1,172 +1,137 @@
-# Zero-hunger-Project
-[Acessar Dashboard](https://zero-hunger-project.streamlit.app/)
+<div align="left">
+  <img src="https://img.shields.io/badge/Ciência_de_Dados-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contabilidade-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Engenharia_de_Software-gold?style=for-the-badge" />
+</div>
 
-# Skills utilizadas:
+---
 
-    Python, (Pandas, Haversine, Map)
-    JupterLab
-    Streamlit
-    Streamlit Cloud
-    Github
+## 👋🏼 Quem sou eu:
 
+Me chamo **Leonardo Rosa**, tenho 32 anos e sou natural do Rio Grande do Sul. 
+Sou **Bacharel em Ciências Contábeis**, especializado em **Auditoria, Controladoria e Gestão de Processos**. Atualmente, estou cursando **Engenharia de Software** na UNICESUMAR - PR. 
 
-# Fome Zero
+Sou apaixonado por tecnologia e estou me preparando para compartilhar conhecimento através do meu canal no YouTube **[Zero ao Insight](https://www.youtube.com/@dozer_aoinsight)**, focado em projetos de Ciência de Dados e análises contábeis.
 
-# 1. Problema de Negócio
+---
 
-  Sua principal tarefa nesse momento é ajudar o CEO Kleiton Guerra
-a identificar pontos chaves da empresa, respondendo às perguntas que ele fizer
-utilizando dados!
-A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu core
-business é facilitar o encontro e negociações de clientes e restaurantes. Os
-restaurantes fazem o cadastro dentro da plataforma da Fome Zero, que disponibiliza
-informações como endereço, tipo de culinária servida, se possui reservas, se faz
-entregas e também uma nota de avaliação dos serviços e produtos do restaurante,
-dentre outras informações.
+<p align="left">
+    <a href="https://www.instagram.com/_instaleonardorosa/">
+        <img alt="instagram" title="Siga-me no Instagram" src="https://img.shields.io/badge/Siga--me-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" />
+    </a>
+    <a href="https://www.youtube.com/@dozer_aoinsight?sub_confirmation=1">
+        <img alt="youtube subscribers" title="Inscreva-se no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCqtDTsM3-uizsJhLUbt-4FA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
+    </a>
+    <a href="https://www.youtube.com/@dozer_aoinsight">
+        <img alt="youtube views" title="Visualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCqtDTsM3-uizsJhLUbt-4FA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
+    </a>
+    <a href="https://github.com/LeoBR1994?tab=followers">
+        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/LeoBR1994?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+    </a> 
+    <a href="https://github.com/LeoBR1994?tab=repositories&sort=stargazers">
+        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LeoBR1994?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+    </a>
+</p>
+---
 
-  O CEO também pediu que fosse gerado um dashboard que permitisse que ele
-visualizasse as principais informações das perguntas que ele fez. O CEO precisa
-dessas informações o mais rápido possível, uma vez que ele também é novo na
-empresa e irá utilizá-las para entender melhor a empresa Fome Zero para conseguir
-tomar decisões mais assertivas.
-Seu trabalho é utilizar os dados que a empresa Fome Zero possui e responder as
-perguntas feitas do CEO e criar o dashboard solicitado.
+## 📊 Estatísticas do GitHub
 
-# 2. O Desafio
+<div align="center">
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="bottom" style="padding-bottom: 10px;">
+        <b style="font-size: 1.1em; color: #a9b1d6;">Estatísticas Gerais</b>
+      </td>
+      <td align="center" valign="bottom" style="padding-bottom: 10px;">
+        <b style="font-size: 1.1em; color: #a9b1d6;">Proeficiência</b>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoBR1994&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true&hide_border=true&hide_title=true" />
+      </td>
+      <td valign="top">
+        <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoBR1994&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-O CEO Guerra também foi recém contratado e precisa entender melhor o negócio
-para conseguir tomar as melhores decisões estratégicas e alavancar ainda mais a
-Fome Zero, e para isso, ele precisa que seja feita uma análise nos dados da
-empresa e que sejam gerados dashboards, a partir dessas análises, para responder
-às seguintes perguntas:
+---
 
-## 1. Visão geral
+### 🤖 Linguagens e Tecnologias:
 
-  1. Quantos restaurantes únicos estão registrados?
-  2. Quantos países únicos estão registrados?
-  3. Quantas cidades únicas estão registradas?
-  4. Qual o total de avaliações feitas?
-  5. Qual o total de tipos de culinária registrados?
+<div align="center">
 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-5C2C2C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linguagem_M-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SaaS_Enterprise-004A73?style=for-the-badge&logo=cloud&logoColor=white"/>
 
-## 2. Premissas assumidas para a análise para os Paises
+</div>
 
-  1. Qual o nome do país que possui mais cidades registradas?
-  2. Qual o nome do país que possui mais restaurantes registrados?
-  3. Qual o nome do país que possui mais restaurantes com o nível de preço igual a 4 registrados?
-  4. Qual o nome do país que possui a maior quantidade de tipos de culinária distintos?
-  5. Qual o nome do país que possui a maior quantidade de avaliações feitas?
-  6. Qual o nome do país que possui a maior quantidade de restaurantes que fazem entrega?
-  7. Qual o nome do país que possui a maior quantidade de restaurantes que aceitam
-  reservas?
-  8. Qual o nome do país que possui, na média, a maior quantidade de avaliações
-  registrada?
-  9. Qual o nome do país que possui, na média, a maior nota média registrada?
-  10. Qual o nome do país que possui, na média, a menor nota média registrada?
-  11. Qual a média de preço de um prato para dois por país?
+---
 
-## 3. Premissas assumidas para a análise para as Cidades
+---
 
-  1. Qual o nome da cidade que possui mais restaurantes registrados?
-  2. Qual o nome da cidade que possui mais restaurantes com nota média acima de 4?
-  3. Qual o nome da cidade que possui mais restaurantes com nota média abaixo de 2.5?
-  4. Qual o nome da cidade que possui o maior valor médio de um prato para dois?
-  5. Qual o nome da cidade que possui a maior quantidade de tipos de culinária
-  distintas?
-  6. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem
-  reservas?
-  7. Qual o nome da cidade que possui a maior quantidade de restaurantes que fazem
-  entregas?
-  8. Qual o nome da cidade que possui a maior quantidade de restaurantes que
-  aceitam pedidos online?
+# 🥗 Zero Hunger Project
+> **Análise Estratégica de Marketplace Gastronômico Global**
+> 🔗 [Acessar Dashboard no Streamlit](https://dashboardfood-portifolio.streamlit.app/)
 
-## 4. Premissas assumidas para a análise para os Restaurantes
+## 1. Problema de Negócio
+A **Fome Zero** é uma plataforma marketplace que conecta clientes a restaurantes globalmente. O CEO, Kleiton Guerra, recém-chegado à empresa, precisava de uma visão panorâmica e detalhada para entender a capilaridade do negócio e a qualidade dos serviços prestados.
 
-  1. Qual o nome do restaurante que possui a maior quantidade de avaliações?
-  2. Qual o nome do restaurante com a maior nota média?
-  3. Qual o nome do restaurante que possui o maior valor de uma prato para duas pessoas?
-  4. Qual o nome do restaurante de tipo de culinária brasileira que possui a menor média de avaliação?
-  5. Qual o nome do restaurante de tipo de culinária brasileira, e que é do Brasil, que possui a maior média de avaliação?
-  6. Os restaurantes que aceitam pedido online são também, na média, os restaurantes que mais possuem avaliações registradas?
-  7. Os restaurantes que fazem reservas são também, na média, os restaurantes que possuem o maior valor médio de um prato para duas pessoas?
-  8. Os restaurantes do tipo de culinária japonesa dos Estados Unidos da América
-  possuem um valor médio de prato para duas pessoas maior que as churrascarias
-  americanas (BBQ)?
+O objetivo foi transformar dados brutos de países, cidades e culinárias em um **Dashboard Estratégico** para suporte à decisão.
 
-## 5. Premissas assumidas para a análise para os Tipos de Culinária
+## 2. O Desafio em Números
+O projeto respondeu a mais de 30 questões de negócio divididas em 4 frentes:
 
-  1. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do restaurante com a maior média de avaliação?
-  2. Dos restaurantes que possuem o tipo de culinária italiana, qual o nome do restaurante com a menor média de avaliação?
-  3. Dos restaurantes que possuem o tipo de culinária americana, qual o nome do restaurante com a maior média de avaliação?
-  4. Dos restaurantes que possuem o tipo de culinária americana, qual o nome do restaurante com a menor média de avaliação?
-  5. Dos restaurantes que possuem o tipo de culinária árabe, qual o nome do restaurante com a maior média de avaliação?
-  6. Dos restaurantes que possuem o tipo de culinária árabe, qual o nome do restaurante com a menor média de avaliação?
-  7. Dos restaurantes que possuem o tipo de culinária japonesa, qual o nome do restaurante com a maior média de avaliação?
-  8. Dos restaurantes que possuem o tipo de culinária japonesa, qual o nome do restaurante com a menor média de avaliação?
-  9. Dos restaurantes que possuem o tipo de culinária caseira, qual o nome do restaurante com a maior média de avaliação?
-  10. Dos restaurantes que possuem o tipo de culinária caseira, qual o nome do restaurante com a menor média de avaliação?
-  11. Qual o tipo de culinária que possui o maior valor médio de um prato para duas pessoas?
-  12. Qual o tipo de culinária que possui a maior nota média?
-  13. Qual o tipo de culinária que possui mais restaurantes que aceitam pedidos
-  online e fazem entregas?
+| Visão | Exemplos de KPIs Respondidos |
+| :--- | :--- |
+| **🌍 Países** | Países com mais restaurantes, maior diversidade culinária e volume de avaliações. |
+| **🏙️ Cidades** | Densidade de restaurantes por cidade, notas médias e oferta de reservas/entregas. |
+| **🍴 Restaurantes** | Identificação dos melhores e piores por culinária (Brasileira, Italiana, Japonesa, etc). |
+| **🧪 Tipos de Culinária** | Média de preço para dois, notas por categoria e aceitação de pedidos online. |
 
-# 3. Estratégia da solução
+## 3. Estratégia da Solução
+Desenvolvi a interface do dashboard dividida em três camadas de profundidade:
 
-O painel estratégico foi desenvolvido utilizando as métricas que refletem
-as 3 principais visões do modelo de negócio da empresa:
+### 🌐 3.1 Visão Global
+* Centralização dos **Big Numbers**: Total de países, cidades, restaurantes, cozinhas e avaliações.
+* **Mapa Global Interativo**: Visualização da distribuição geográfica dos parceiros.
 
-  1. Visão global dos restaurantes cadastrados no data base.
-  2. Visão das cidades.
-  3. VIsão dos paises.
+### 🏢 3.2 Visão Cidades
+* **Ranking de Volume**: Top 10 cidades com maior presença no banco de dados.
+* **Qualidade Local**: Cidades com maior concentração de restaurantes "Excellent" (nota > 4.5).
+* **Diversidade**: Localidades com maior variedade de tipos de gastronomia.
 
-## 1. Visão global dos restaurantes cadastrados no data base.
+### 🏳️ 3.3 Visão Países
+* Comparativos de **Preço Médio** por país (ajustado para moedas locais).
+* Volume de avaliações e engajamento dos usuários por região.
 
-  a. Quantidade de paises registados.
-  
-  b. Quantidade de cidades registadas.
-  
-  c. Quantidade de restaurantes registados.
-  
-  d. Quantidade de cozinhas registadas.
-  
-  e. Quantidade de votos registados.
-  
-  f. Mapa global.
+## 4. Conclusão e Insights
+Através deste projeto, foi possível identificar que:
+* Restaurantes classificados como **Excelentes** concentram-se fortemente na **Índia e Estados Unidos**.
+* Juntos, esses mercados somam 287 opções de alto nível em 62 cidades, cobrindo mais de 60 tipos de culinárias.
+* O custo médio para um jantar a dois gira em torno de **694 rupias (Índia)** e **56 dólares (EUA)** nas categorias premium.
 
-## 2. Visão das cidades.
+## 5. Ferramentas e Dados
+* **Dataset:** Base oficial via [Kaggle](https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset).
+* **Stack:** Python (Pandas, Plotly, Folium) para processamento e visualização.
+* **Deploy:** Streamlit Cloud para acesso online multiplataforma.
 
-  a. As 10 cidades com mais restaurantes no banco de dados.
-  
-  b. As 7 principais cidades com restaurantes com classificação média acima de 4.
-  
-  c. As 7 principais cidades com restaurantes com classificação média abaixo de 2,5.
-  
-  d. Top 10 cidades com restaurantes com diferentes tipos de cozinha.
-  
-## 3. Visão dos paises.
-
-  a. A quantidade de restaurantes registrados por país.
-  
-  b. A quantidade de cidades cadastradas por país.
-  
-  c. Avaliações médias feitas por cidade.
-  
-  d. Preço médio do prato para duas pessoas.
-
-  
-# 4. Conclusão
-
-  O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
-  Com base nos dados podemos concluir que o número de pedidos avaliados como Excelentes possuem maior concentração na India e nos Estados Unidos, totalizando em 287 opções de restaurantes em 62 cidades, com + de 60 tipos de culinárias diferentes, onde a media do custo de prato para 2, custa aproximadamente em 694.0 rupias indiana (India) e 56.0 dólarres (EUA).
-
-# 5. Projeto
-
-  Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
-O painel pode ser acessado através desse link: https://dashboardfood-portifolio.streamlit.app/
-
-# Os Dados
-
-O conjunto de dados que representam o contexto está disponível na plataforma do
-Kaggle. O link para acesso aos dados :
-https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-datase
-t?resource=download&select=zomato.csv
+---
